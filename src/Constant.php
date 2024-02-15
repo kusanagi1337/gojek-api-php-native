@@ -5,7 +5,7 @@
 define('BASE_URL_API', 'https://api.gojekapi.com');
 define('BASE_URL_GOID', 'https://goid.gojekapi.com');
 define('BASE_URL_CUSTOMER', 'https://customer.gopayapi.com');
-define('USER_AGENT', 'okhttp/4.10.0');
+define('USER_AGENT', 'Mozilla/5.0 (Linux; Android 13; SM-G990E Build/TP1A.220624.014; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.0.0 Mobile Safari/537.36 BingSapphire/25.0.410425302');
 
 /**
  * COUNTRY CODE CONFIG
@@ -21,9 +21,9 @@ define('X_UNIQUEID', 'c6ad2e615cf54aa5');
 define('X_APPVERSION', '4.74.3');
 define('X_APPID', 'com.gojek.app');
 define('X_USER_TYPE', 'customer');
-define('X_DEVICE_OS', 'Android,9');
+define('X_DEVICE_OS', 'Android,13');
 define('X_PHONEMAKE', 'samsung');
-define('X_PHONEMODEL', 'samsung,SM-S901N');
+define('X_PHONEMODEL', 'samsung,SM-G990E');
 define('GOJEK_COUNTRY_CODE', 'ID');
 
 /** 
