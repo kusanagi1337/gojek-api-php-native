@@ -17,7 +17,7 @@ define('COUNTRY_CODE_ID', 'ID');
  * DEVICE CONFIG
  */
 define('X_PLATFORM', 'Android');
-define('X_UNIQUEID', 'c6ad2e615cf54aa5');
+define('X_UNIQUEID', 'e59808b1-ec8e-4f81-94be-a43d9879c8f7');
 define('X_APPVERSION', '4.74.3');
 define('X_APPID', 'com.gojek.app');
 define('X_USER_TYPE', 'customer');
@@ -30,8 +30,8 @@ define('GOJEK_COUNTRY_CODE', 'ID');
  * CLIENT ID & SECRET
  */
 define('CLIENT_ID', 'gojek:consumer:app');
-define('CLIENT_SECRET', 'pGwQ7oi8bKqqwvid09UrjqpkMEHklb');
-define('CLIENT_ID_MFA', '6d11d261d7ae462dbd4be0dc5f36a697-MFAGOJEK');
+define('CLIENT_SECRET', 'd48a2696f84b4ddc8259aa528935eb46');
+define('CLIENT_ID_MFA', '7a52a5dafaed49a3bfcf5444cbce06c4-MFAGOJEK');
 
 /**
  * EP = ENDPOINT
